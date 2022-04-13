@@ -64,6 +64,12 @@ Public Class FrmAddBarcode
 
     Private Sub FrmAddBarcode_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
+        '=================
+        'TEST GITHUB
+        '================
+
+
+
         Call LOCAL_CONNECT()
 
         Call HOST_CONNECT()
