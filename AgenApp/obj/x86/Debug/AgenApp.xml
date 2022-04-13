@@ -1,0 +1,556 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AgenApp
+</name>
+</assembly>
+<members>
+<member name="T:AgenApp.DataSet7.DataTable7DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgenApp.DataSet7.DataTable7Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgenApp.DataSet7.DataTable7RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgenApp.DataSet7">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgenApp.DataSet7TableAdapters.DataTable7TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgenApp.DataSet7TableAdapters.TableAdapterManager.UpdateUpdatedRows(AgenApp.DataSet7,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet7TableAdapters.TableAdapterManager.UpdateInsertedRows(AgenApp.DataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet7TableAdapters.TableAdapterManager.UpdateDeletedRows(AgenApp.DataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgenApp.DataSet7TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgenApp.DataSet7TableAdapters.TableAdapterManager.UpdateAll(AgenApp.DataSet7)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgenApp.DataSet7TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgenApp.DataSet7TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgenApp.DataSet7TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AgenApp.DataSet1.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgenApp.DataSet1.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgenApp.DataSet1.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgenApp.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgenApp.DataSet1TableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgenApp.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(AgenApp.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(AgenApp.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(AgenApp.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgenApp.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgenApp.DataSet1TableAdapters.TableAdapterManager.UpdateAll(AgenApp.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgenApp.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgenApp.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgenApp.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AgenApp.DataSet4.DataTable4DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgenApp.DataSet4.DataTable4Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgenApp.DataSet4.DataTable4RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgenApp.DataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgenApp.DataSet4TableAdapters.DataTable4TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgenApp.DataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(AgenApp.DataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(AgenApp.DataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(AgenApp.DataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgenApp.DataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgenApp.DataSet4TableAdapters.TableAdapterManager.UpdateAll(AgenApp.DataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgenApp.DataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgenApp.DataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgenApp.DataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources._Exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.Add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.Apply">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.Bitmap_editor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.Check_boxes">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.Close">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.Create">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.document_file">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.Edit_page">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.information">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.pencil_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.Properties">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.Registration">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.shopping_cart">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AgenApp.My.Resources.Resources.To_do_list">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:AgenApp.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:AgenApp.DataSet3.DataTable3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgenApp.DataSet3.DataTable3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgenApp.DataSet3.DataTable3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgenApp.DataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgenApp.DataSet3TableAdapters.DataTable3TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgenApp.DataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(AgenApp.DataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(AgenApp.DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(AgenApp.DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgenApp.DataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgenApp.DataSet3TableAdapters.TableAdapterManager.UpdateAll(AgenApp.DataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgenApp.DataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgenApp.DataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgenApp.DataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AgenApp.DataSet9.DataTable9DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgenApp.DataSet9.DataTable9Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgenApp.DataSet9.DataTable9RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgenApp.DataSet9">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgenApp.DataSet9TableAdapters.DataTable9TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgenApp.DataSet9TableAdapters.TableAdapterManager.UpdateUpdatedRows(AgenApp.DataSet9,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet9TableAdapters.TableAdapterManager.UpdateInsertedRows(AgenApp.DataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet9TableAdapters.TableAdapterManager.UpdateDeletedRows(AgenApp.DataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgenApp.DataSet9TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgenApp.DataSet9TableAdapters.TableAdapterManager.UpdateAll(AgenApp.DataSet9)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgenApp.DataSet9TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgenApp.DataSet9TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgenApp.DataSet9TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AgenApp.DataSet6.DataTable6DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgenApp.DataSet6.DataTable6Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgenApp.DataSet6.DataTable6RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgenApp.DataSet6">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgenApp.DataSet6TableAdapters.DataTable6TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgenApp.DataSet6TableAdapters.TableAdapterManager.UpdateUpdatedRows(AgenApp.DataSet6,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet6TableAdapters.TableAdapterManager.UpdateInsertedRows(AgenApp.DataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet6TableAdapters.TableAdapterManager.UpdateDeletedRows(AgenApp.DataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgenApp.DataSet6TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgenApp.DataSet6TableAdapters.TableAdapterManager.UpdateAll(AgenApp.DataSet6)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgenApp.DataSet6TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgenApp.DataSet6TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgenApp.DataSet6TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AgenApp.DataSet2.DataTable2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgenApp.DataSet2.DataTable2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgenApp.DataSet2.DataTable2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgenApp.DataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgenApp.DataSet2TableAdapters.DataTable2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgenApp.DataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(AgenApp.DataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(AgenApp.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(AgenApp.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgenApp.DataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgenApp.DataSet2TableAdapters.TableAdapterManager.UpdateAll(AgenApp.DataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgenApp.DataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgenApp.DataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgenApp.DataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AgenApp.DataSet8.TMPINVDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgenApp.DataSet8.TMPINVRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgenApp.DataSet8.TMPINVRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgenApp.DataSet8">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgenApp.DataSet8TableAdapters.TMPINVTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgenApp.DataSet8TableAdapters.TableAdapterManager.UpdateUpdatedRows(AgenApp.DataSet8,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet8TableAdapters.TableAdapterManager.UpdateInsertedRows(AgenApp.DataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet8TableAdapters.TableAdapterManager.UpdateDeletedRows(AgenApp.DataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgenApp.DataSet8TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgenApp.DataSet8TableAdapters.TableAdapterManager.UpdateAll(AgenApp.DataSet8)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgenApp.DataSet8TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgenApp.DataSet8TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgenApp.DataSet8TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AgenApp.DataSet5.DataTable5DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgenApp.DataSet5.DataTable5Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgenApp.DataSet5.DataTable5RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgenApp.DataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgenApp.DataSet5TableAdapters.DataTable5TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgenApp.DataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(AgenApp.DataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(AgenApp.DataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgenApp.DataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(AgenApp.DataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgenApp.DataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgenApp.DataSet5TableAdapters.TableAdapterManager.UpdateAll(AgenApp.DataSet5)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgenApp.DataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgenApp.DataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgenApp.DataSet5TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

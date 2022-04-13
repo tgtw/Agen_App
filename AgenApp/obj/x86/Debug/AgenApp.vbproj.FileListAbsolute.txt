@@ -1,0 +1,165 @@
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\bin\x86\Debug\Reports\RptSalesReceipt.rdlc
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\bin\x86\Debug\Reports\RptDelvNote.rdlc
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\bin\x86\Debug\Reports\RptSalesInv.rdlc
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\bin\x86\Debug\Reports\RptGRNote.rdlc
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\bin\x86\Debug\AgenApp.exe.config
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\bin\x86\Debug\AgenApp.exe
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\bin\x86\Debug\AgenApp.pdb
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\bin\x86\Debug\AgenApp.xml
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFilterPO.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFilterSO.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindPO.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmLogin.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmStockList.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindColor.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindCust.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindItem.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindVend.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGR.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGRBarcode.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGRDelivery.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGRList.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmPO.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmPOList.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmReportPreview.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmProductDetail.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmProductList.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmReportDelv.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmReportGR.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmReportInv.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesInvoiceList.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesReceipt.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesBarcode.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesReceiptList.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.MDIMain.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.Resources.resources
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.vbproj.GenerateResource.Cache
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\RdlCompile.cache
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\RdlCompile.compiled
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.exe
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.xml
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.pdb
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\bin\x86\Debug\DevComponents.DotNetBar2.dll
+D:\Projects\SAP\SAP HANA\PROGRAM\AgenApp\AgenApp\obj\x86\Debug\AgenApp.vbprojResolveAssemblyReference.cache
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptDelvNote.rdlc
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptSalesInvoice.rdlc
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptGRNote.rdlc
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptPO.rdlc
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptSalesDetail.rdlc
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptBarcode.rdlc
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\Forms\FrmGRtitipan.resx
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\Forms\FrmGRtitipan.Designer.vb
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\Forms\FrmGRtitipan.vb
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptSalesReceipt.rdlc
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptSalesReceipt2.rdlc
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\AgenApp.exe.config
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\AgenApp.exe
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\AgenApp.pdb
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\AgenApp.xml
+D:\Projects\AGEN\AgenApp\AgenApp\bin\x86\Debug\BarcodeLib.Barcode.RDLCReports.dll
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.vbproj.ResolveComReference.cache
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmCompany.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmCustomer.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmCustomerList.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFilterGR.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFilterPO.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFilterSalesAnalysis.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFilterSO.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindPO.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGRNewBarcode.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmLogin.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmReportPreview.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmReportSales.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesAnalysis.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesPicking.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmStockCard.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmStockList.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindColor.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindCust.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindItem.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindVend.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGR.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGRBarcode.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGRDelivery.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGRList.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmPO.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmPOList.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmProductDetail.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmProductList.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesInvoiceList.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesReceipt.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesBarcode.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesReceiptList.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGRtitipan.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.MDIMain.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.Resources.resources
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.vbproj.GenerateResource.Cache
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\RdlCompile.cache
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\RdlCompile.compiled
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.exe
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.xml
+D:\Projects\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.pdb
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptDelvNote.rdlc
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptSalesInvoice.rdlc
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptGRNote.rdlc
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptPO.rdlc
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptSalesDetail.rdlc
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptPurchaseDetail.rdlc
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptBarcode.rdlc
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\Forms\FrmGRtitipan.resx
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\Forms\FrmGRtitipan.Designer.vb
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\Forms\FrmGRtitipan.vb
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptSalesReceipt.rdlc
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\Reports\RptSalesReceipt2.rdlc
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\AgenApp.exe.config
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\AgenApp.exe
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\AgenApp.pdb
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\bin\x86\Debug\AgenApp.xml
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.vbprojResolveAssemblyReference.cache
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.vbproj.ResolveComReference.cache
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmAddBarcode.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmCompany.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmCustomer.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmCustomerList.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFilterGR.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFilterPO.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFilterSalesAnalysis.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFilterSO.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFilterStockCard.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindPO.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGIList.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGoodsIssue.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGRNewBarcode.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmLogin.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmReportPreview.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmReportPurchase.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmReportSales.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesAnalysis.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesPicking.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmStockCard.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmStockList.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindColor.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindCust.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindItem.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmFindVend.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGR.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGRBarcode.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGRDelivery.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGRList.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmPO.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmPOList.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmProductDetail.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmProductList.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesInvoiceList.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesReceipt.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesBarcode.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmSalesReceiptList.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.FrmGRtitipan.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.MDIMain.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.Resources.resources
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.vbproj.GenerateResource.Cache
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\RdlCompile.cache
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\RdlCompile.compiled
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.exe
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.xml
+D:\Projects\TRISULA\AGEN\AgenApp\AgenApp\obj\x86\Debug\AgenApp.pdb
